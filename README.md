@@ -1,2 +1,3 @@
-# ImageDetectorML
-IOS - Core ML and Vision API example
+# ImageDetectorML 
+IOS - Test Core ML and Vision API
+
